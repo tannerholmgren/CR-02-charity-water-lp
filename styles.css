@@ -56,7 +56,7 @@ body {
 /* Hero Section */
 .hero {
   height: 100vh;
-  background-image: url('https://cdn2.dropmarkusercontent.com/52043/c8a37c6cde809aa567b385a4008e34ad5b71e06b0b967258b1fb708cb1356df9/preview/8439_Ethiopia_2019_CG-.jpg?Expires=1756768886&Signature=MpgVZYrqsGNPFo3X~igysnLB~5YmU2xZnr9Ocp2o63dv0QWYVrltlVdHZaSiicGKhm0VoTHW7rbEthxUQ9qob1oVt-urC8wMgdsOX8rgl1t7JPpOJXT3yWj2oTN9dv7dG-sqXMCFMMFgpfQx5do0YfzqLXobS4h718BN3I-KHCur55RVwZMN~Mgqwn6sEIe4l4MFq5ryf9BsdBaHftYAqeYWOvFzW5oWf3d0qm6wISnwzXo6ndlhOnQQ~f6UfWu-lsqWTBCWJ46cFl-7v5fZpoBqsrqO-wTJ9e8rjxMBP4i3bzgTmFN~G4JNQDxedOvejg~RNq458U83nVRI3RRRTw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ'); /* Replace with your image */
+  background-image: url('./img/8439_Ethiopia_2019_CG-.jpg'); /* Replace with your image */
   background-size: cover;
   background-position: center;
   position: relative;
